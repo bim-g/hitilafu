@@ -48,6 +48,8 @@ Hitilafu::register()
 ```
 custom solutions are used based on the application implementation like (plugins, component, models, controllers, ...)
 
+![image](/assets/Screenshot%202025-12-02%20135752.png)
+
 ## Important: Syntax Error Limitations
 
 ### Why Syntax Errors Can't Be Caught
@@ -87,6 +89,8 @@ Hitilafu::register();
 // This will trigger the error handler
 include 'example.php'; // Contains syntax errors
 ```
+
+![example](/assets/Screenshot%202025-12-02%20153015.png)
 
 ## Error Types Handled
 
