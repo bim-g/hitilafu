@@ -16,14 +16,14 @@
         }
     ],
     "minimum-stability": "dev",
-    "prefer-stable" : true,
+    "prefer-stable": true,
     "require": {
         "php": ">=8.0"
     },
-    "support" : {
-        "issues" : "https://github.com/bim-g/hitilafu/issues",
-        "forum" : "https://github.com/bim-g/hitilafu/wiki",
-        "source" : "https://github.com/bim-g/hitilafu",
-        "docs" : "https://github.com/bim-g/hitilafu/wiki"
+    "support": {
+        "issues": "https://github.com/bim-g/hitilafu/issues",
+        "forum": "https://github.com/bim-g/hitilafu/wiki",
+        "source": "https://github.com/bim-g/hitilafu",
+        "docs": "https://github.com/bim-g/hitilafu/wiki"
     }
 }
