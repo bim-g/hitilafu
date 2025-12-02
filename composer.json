@@ -3,6 +3,7 @@
     "description": "A beautiful error page for PHP applications.",
     "type": "library",
     "license": "apache-2.0",
+    "keywords" : ["error handling", "beautiful error page", "php errors", "debugging"],
     "autoload": {
         "psr-4": {
             "Wepesi\\Hitilafu\\": "src/"
@@ -15,5 +16,14 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "prefer-stable" : true,
+    "require": {
+        "php": ">=8.0"
+    },
+    "support" : {
+        "issues" : "https://github.com/bim-g/hitilafu/issues",
+        "forum" : "https://github.com/bim-g/hitilafu/wiki",
+        "source" : "https://github.com/bim-g/hitilafu",
+        "docs" : "https://github.com/bim-g/hitilafu/wiki"
+    }
 }
